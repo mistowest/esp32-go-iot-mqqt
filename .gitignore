@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+bin/
+*.elf
+*.uf2
+*.hex
+*.bin
+*.map
+coverage.out
+.DS_Store
